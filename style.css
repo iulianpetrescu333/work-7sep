@@ -1,0 +1,59 @@
+body {
+  height: 98vh;
+  width: 98vw;
+}
+
+header {
+  width: 100%;
+  height: 9.375em;
+  background-color: pink;
+
+}
+
+main {
+  width: 100%;
+  height: 21.875em;
+  background-color: gainsboro;
+}
+
+footer {
+  background-color: brown;
+  width: 100%;
+  height: 5.3125em;
+
+}
+
+aside {
+  background-color: goldenrod;
+  width: 20%;
+  height: 21.875em;
+  float: left;
+}
+
+section {
+  background-color: blueviolet;
+  width: 80%;
+  height: 21.875em;
+  float: left;
+}
+
+#contact {
+  background-color: burlywood;
+  width: 30%;
+  height: 3.65em;
+  margin: 0 29.375em;
+}
+
+#contact a {
+  display: block;
+}
+
+p,
+h3,
+h4 {
+  font-size: 1em;
+}
+*{
+  margin-bottom: .0625em;
+}
+
